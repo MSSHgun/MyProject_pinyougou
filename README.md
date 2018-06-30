@@ -75,6 +75,13 @@ Pipe     | $1
 
 方括号里可以加入一些 标 `识性的信息`
 
+---
+order: 0
+title:
+  zh-CN: 按钮类型
+  en-US: Type
+---
+
 ###定义列表
 
 **Markdown　Extra**　定义列表语法：
